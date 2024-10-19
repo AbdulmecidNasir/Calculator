@@ -1,0 +1,7 @@
+A:\C#\Giris\Calculator\bin\Debug\Calculator.exe.config
+A:\C#\Giris\Calculator\bin\Debug\Calculator.exe
+A:\C#\Giris\Calculator\bin\Debug\Calculator.pdb
+A:\C#\Giris\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+A:\C#\Giris\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+A:\C#\Giris\Calculator\obj\Debug\Calculator.exe
+A:\C#\Giris\Calculator\obj\Debug\Calculator.pdb
